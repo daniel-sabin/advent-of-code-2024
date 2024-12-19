@@ -1,0 +1,7 @@
+version: 1.3
+
+about:
+ - "This code is a sample of puzzle solution for https://adventofcode.com/"
+ - "This code is write in go and MUST respect port and adapter pattern"
+ - "Need to follow the repository pattern, if not exists please propose some implementation""
+
