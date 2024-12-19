@@ -27,3 +27,27 @@ Welcome to my **Advent of Code 2024** project! This repository contains my solut
    ```bash
    git clone https://github.com/your-username/my-advent-of-code-2024.git
    cd my-advent-of-code-2024
+
+## Installation
+   - Add instructions for installing Go and setting up the project.
+   ```bash
+   # Install Go
+   https://golang.org/doc/install
+
+   # Clone the repository
+   git clone https://github.com/your-username/my-advent-of-code-2024.git
+   cd my-advent-of-code-2024
+   ```
+
+## Usage
+   - Add instructions for running the project.
+   ```bash
+   # Run the main program
+   go run main.go
+   ```
+
+## Contributing
+   Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+   This project is licensed under the MIT License - see the LICENSE file for details.
